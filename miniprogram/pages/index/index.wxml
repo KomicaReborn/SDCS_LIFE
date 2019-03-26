@@ -6,7 +6,7 @@
   
 
   <view id="func_sl">
-    <button class="block" bindtap='jump'>抽签模式</button>
+
 
     <button class="block" bindtap='jump1'>配对模式</button>
 
